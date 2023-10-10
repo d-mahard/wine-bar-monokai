@@ -18,11 +18,11 @@
 ## Samples
 
 
-   ![TypeScript and C# Sample](images\sample_ts_cs.png)
+   ![TypeScript and C# Sample](images/sample_ts_cs.png)
    *Wine Bar Monokai with TypeScript and C# code.*
 
 
-   ![Markdown Sample](images\sample_md.png)
+   ![Markdown Sample](images/sample_md.png)
    *Wine Bar Monokai with Markdown text.*
 
 
