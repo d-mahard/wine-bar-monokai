@@ -6,6 +6,8 @@
 
 - **Dark Theme:** a dark color scheme that is easy on the eyes and perfect for long coding sessions
 
+- **Meticulously crafted:** (almost) all color elements are carefully chosen to optimize visual functionality, consistency, and aesthetic
+
 - **Intuitive Workflow:** designed to enhance your workflow by providing clear separation between your working area (editor, terminal) and functional elements like the sidebar
 
 - **Monokai Syntax Highlighter:** incorporates the familiar Monokai syntax highlighting, making your code visually distinct and easy to read
