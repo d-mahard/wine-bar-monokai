@@ -2,7 +2,18 @@
 
 All notable changes to the "wine-bar-monokai" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+This follows the [Keep a Changelog](http://keepachangelog.com/) structure recommendation.
+
+## [v0.1.1] - 2023-12-15
+
+### Added
+
+- sample text for github commit editor and javascript
+
+### Changed
+
+- change ghost color to differentiate with comment. Ghost color includes suggestion from intelliSense and AI suggestion.
+- change progress bar color to be more vivid (match background of badge)
 
 ## [v0.1.0] - 2023-11-06
 
