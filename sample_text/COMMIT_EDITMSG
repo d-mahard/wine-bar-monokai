@@ -1,0 +1,29 @@
+feat(parser): add ability to parse arrays
+
+Arrays are a common data structure and we need to be able to parse them. Previously, the parser could only handle objects.
+
+Closes #123
+BREAKING CHANGE: The parser now has a different return type for the parse method.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Mon Nov 6 23:22:57 2023 +0100
+#
+# On branch edit
+# Your branch is ahead of 'origin/edit' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   package.json
+#	new file:   sample_text/sample.js
+#	modified:   themes/Wine Bar Monokai-color-theme.json
+#
+# Changes not staged for commit:
+#	deleted:    old_file.txt
+#
+# Untracked files:
+#	untracked_file.txt
+#
+# Cherry-pick from 2bead48
+#
