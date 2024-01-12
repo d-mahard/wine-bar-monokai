@@ -138,6 +138,8 @@
 		"gitDecoration.untrackedResourceForeground": "#73c991",
 		"gitlens.trailingLineBackgroundColor": "#3100467e",
 		"gitlens.trailingLineForegroundColor": "#813cbabd",
+		"errorLens.errorForeground": "#a94343",
+        "errorLens.warningForeground": "#a1643e",
 		"input.background": "#0c0c0c",
 		"input.border": "#363537",
 		"input.foreground": "#d4d4d4",

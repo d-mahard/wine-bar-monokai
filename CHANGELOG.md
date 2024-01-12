@@ -4,6 +4,18 @@ All notable changes to the "wine-bar-monokai" extension will be documented in th
 
 This follows the [Keep a Changelog](http://keepachangelog.com/) structure recommendation.
 
+## [v0.1.5] - 2024-01-12
+
+### Added
+
+- color for error lens, to make it more muted
+
+## [v0.1.4] - 2024-01-12
+
+### Fixed
+
+- incorrect license file name in package.json
+
 ## [v0.1.3] - 2024-01-12
 
 ### Changed
@@ -13,6 +25,7 @@ This follows the [Keep a Changelog](http://keepachangelog.com/) structure recomm
 ### Fixed
 
 - remove unnecessary files, update .vscodeignore, reducing the size from 8mb to 1mb
+
 
 ## [v0.1.2] - 2024-01-12
 
