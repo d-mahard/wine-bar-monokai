@@ -19,7 +19,7 @@
     "color": "#400000",
     "theme": "dark"
   },
-  "license": "SEE LICENSE IN LICENSE.txt",
+  "license": "SEE LICENSE IN 'COPYING' FILE",
   "contributes": {
     "themes": [
       {
