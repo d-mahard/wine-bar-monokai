@@ -4,6 +4,17 @@ All notable changes to the "wine-bar-monokai" extension will be documented in th
 
 This follows the [Keep a Changelog](http://keepachangelog.com/) structure recommendation.
 
+## [v0.1.2] - 2024-01-12
+
+### Added
+
+- 
+
+### Changed
+
+- change gitlens color to purple (inspirid by GitHub main page color). This is to differentiate with the ghost text
+
+
 ## [v0.1.1] - 2023-12-15
 
 ### Added

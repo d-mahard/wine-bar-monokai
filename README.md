@@ -14,7 +14,7 @@
 
 - **Optimized for Languages:** while this theme works well with various programming languages, it is particularly optimized for TypeScript and C#, ensuring a smooth and enjoyable coding experience
 
-- **Git-related extensions compatibility:** includes customized colors for GitLens and GitHub PR Extension
+- **extensions compatibility:** includes customized colors for GitLens, ErrorLens, Copilot, and GitHub PR Extension
 
 
 ## Samples
@@ -26,6 +26,9 @@
 
    ![Markdown Sample](images/sample_md.png)
    *Wine Bar Monokai with Markdown text.*
+
+   ![Ghost text sample](images/ghost_text.png)
+   *Carefully chosen colors, even for ghost text.*
 
 
 
