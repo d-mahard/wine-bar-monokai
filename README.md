@@ -14,7 +14,11 @@
 
 - **Optimized for Languages:** while this theme works well with various programming languages, it is particularly optimized for TypeScript and C#, ensuring a smooth and enjoyable coding experience
 
-- **extensions compatibility:** includes customized colors for GitLens, ErrorLens, Copilot, and GitHub PR Extension
+- **Extended Colors:** includes customized colors for the following extensions: 
+  - GitLens
+  - ErrorLens
+  - Copilot
+  - GitHub PR Extension
 
 
 ## Samples
