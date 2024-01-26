@@ -30,13 +30,6 @@ const myObject = {
     }
 };
 
-const myObject2 = {
-    key: "value",
-    method: function() {
-        return this.key;
-    }
-};
-
 // Array
 let myArray = [1, 2, 3, 4, 5];
 
