@@ -4,6 +4,13 @@ All notable changes to the "wine-bar-monokai" extension will be documented in th
 
 This follows the [Keep a Changelog](http://keepachangelog.com/) structure recommendation.
 
+## [v0.1.6] - 2024-02-27
+
+### Changed
+
+- add transparency for colors that have to be opaque (except editor fold, to match with sticky scroll)
+- comment widget range
+
 ## [v0.1.5] - 2024-01-12
 
 ### Added
