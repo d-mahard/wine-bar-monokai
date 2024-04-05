@@ -4,6 +4,12 @@ All notable changes to the "wine-bar-monokai" extension will be documented in th
 
 This follows the [Keep a Changelog](http://keepachangelog.com/) structure recommendation.
 
+## [v0.1.7] - 2024-04-05
+
+### Changed
+
+- color for terminal sticky scroll, sidebar title, and some color related to editor/group borders
+
 ## [v0.1.6] - 2024-02-27
 
 ### Changed
