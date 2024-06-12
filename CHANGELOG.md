@@ -4,6 +4,12 @@ All notable changes to the "wine-bar-monokai" extension will be documented in th
 
 This follows the [Keep a Changelog](http://keepachangelog.com/) structure recommendation.
 
+## [v0.1.9] - 2024-06-12
+
+### Changed
+
+- fix color for diff editor, to help more focus on the changes. The maroon was a bit distracting as it is close to red. 
+
 ## [v0.1.8] - 2024-05-09
 
 ### Changed
