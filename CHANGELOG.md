@@ -4,6 +4,12 @@ All notable changes to the "wine-bar-monokai" extension will be documented in th
 
 This follows the [Keep a Changelog](http://keepachangelog.com/) structure recommendation.
 
+## [v0.1.10] - 2024-12-30
+
+### Added
+
+- Color palette analyzer tool (`tools/analyze_colors.py`) for analyzing theme colors grouped by similarity
+
 ## [v0.1.9] - 2024-06-12
 
 ### Changed
