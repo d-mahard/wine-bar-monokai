@@ -64,3 +64,4 @@ When modifying colors, maintain consistency with the brown-maroon theme palette 
 ## Publishing
 
 The extension is published to the VS Code Marketplace under publisher `d-mahard`. Package version is managed in `package.json`.
+
