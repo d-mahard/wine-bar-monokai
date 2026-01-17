@@ -52,7 +52,7 @@ For more detailed explanation on VS Code theme color, including how to make your
 
 ## License
 
-Wine Bar Monokai is licensed under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE.txt). You are free to use, modify, and distribute this theme under the terms of this open-source license.
+Wine Bar Monokai is licensed under the [GNU General Public License v3.0 (GPL-3.0)](COPYING). You are free to use, modify, and distribute this theme under the terms of this open-source license.
 
 Enjoy coding with the cozy and rustic feel of Wine Bar Monokai! If you have any issues or suggestions, please feel free to report them on the [GitHub repository](https://github.com/d-mahard/wine-bar-monokai). Your feedback is greatly appreciated.
 
