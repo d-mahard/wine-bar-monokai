@@ -4,6 +4,23 @@ All notable changes to the "wine-bar-monokai" extension will be documented in th
 
 This follows the [Keep a Changelog](http://keepachangelog.com/) structure recommendation.
 
+## [v0.1.11] - 2026-01-18
+
+### Changed
+
+- extract token colors to a separate file
+- colors of notification center, to match with sidebar section style
+
+### Added
+
+- colors related to debugging
+- colors related to diff editor
+- color of action-bar tool background
+
+### Fixed
+
+- color of git commit placeholder 
+
 ## [v0.1.10] - 2024-12-30
 
 ### Added
