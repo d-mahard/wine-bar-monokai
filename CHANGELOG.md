@@ -4,7 +4,7 @@ All notable changes to the "wine-bar-monokai" extension will be documented in th
 
 This follows the [Keep a Changelog](http://keepachangelog.com/) structure recommendation.
 
-## [v0.1.11] - 2026-01-18
+## [v0.1.10] - 2024-12-30
 
 ### Changed
 
@@ -13,6 +13,7 @@ This follows the [Keep a Changelog](http://keepachangelog.com/) structure recomm
 
 ### Added
 
+- Color palette analyzer tool (`tools/analyze_colors.py`) for analyzing theme colors grouped by similarity
 - colors related to debugging
 - colors related to diff editor
 - color of action-bar tool background
@@ -20,12 +21,6 @@ This follows the [Keep a Changelog](http://keepachangelog.com/) structure recomm
 ### Fixed
 
 - color of git commit placeholder 
-
-## [v0.1.10] - 2024-12-30
-
-### Added
-
-- Color palette analyzer tool (`tools/analyze_colors.py`) for analyzing theme colors grouped by similarity
 
 ## [v0.1.9] - 2024-06-12
 
