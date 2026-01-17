@@ -4,6 +4,49 @@ All notable changes to the "wine-bar-monokai" extension will be documented in th
 
 This follows the [Keep a Changelog](http://keepachangelog.com/) structure recommendation.
 
+## [v0.1.10] - 2024-12-30
+
+### Changed
+
+- extract token colors to a separate file
+- colors of notification center, to match with sidebar section style
+
+### Added
+
+- Color palette analyzer tool (`tools/analyze_colors.py`) for analyzing theme colors grouped by similarity
+- colors related to debugging
+- colors related to diff editor
+- color of action-bar tool background
+
+### Fixed
+
+- color of git commit placeholder 
+
+## [v0.1.9] - 2024-06-12
+
+### Changed
+
+- fix color for diff editor, to help more focus on the changes. The maroon was a bit distracting as it is close to red. 
+
+## [v0.1.8] - 2024-05-09
+
+### Changed
+
+- color for diff editor and code lens
+
+## [v0.1.7] - 2024-04-05
+
+### Changed
+
+- color for terminal sticky scroll, sidebar title, and some color related to editor/group borders
+
+## [v0.1.6] - 2024-02-27
+
+### Changed
+
+- add transparency for colors that have to be opaque (except editor fold, to match with sticky scroll)
+- comment widget range
+
 ## [v0.1.5] - 2024-01-12
 
 ### Added
