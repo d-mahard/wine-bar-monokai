@@ -65,3 +65,40 @@ When modifying colors, maintain consistency with the brown-maroon theme palette 
 
 The extension is published to the VS Code Marketplace under publisher `d-mahard`. Package version is managed in `package.json`.
 
+### Installation
+
+Install the Visual Studio Code Extension tool globally:
+
+```bash
+npm install -g @vscode/vsce
+```
+
+### Common Commands
+
+**Package the extension** (creates a `.vsix` file):
+```bash
+vsce package
+```
+
+**Publish to the marketplace**:
+```bash
+vsce publish
+```
+
+Or publish with a version bump:
+```bash
+vsce publish patch  # 1.0.0 → 1.0.1
+vsce publish minor  # 1.0.0 → 1.1.0
+vsce publish major  # 1.0.0 → 2.0.0
+```
+
+### Authentication
+
+You'll need a **Personal Access Token (PAT)** from Azure DevOps:
+
+1. Go to https://dev.azure.com
+2. Create a PAT with `Marketplace (Manage)` scope
+3. Login with: `vsce login d-mahard`
+
+The PAT and login only need to be done once - `vsce` will remember your credentials for future publishes.
+
