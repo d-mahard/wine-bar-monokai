@@ -1,5 +1,10 @@
 # Wine Bar Monokai - Visual Studio Code Color Theme
 
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/d-mahard.wine-bar-monokai?style=flat&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=d-mahard.wine-bar-monokai)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/d-mahard.wine-bar-monokai?style=flat)](https://marketplace.visualstudio.com/items?itemName=d-mahard.wine-bar-monokai)
+
+
+
 **Wine Bar Monokai** is a dark color theme for Visual Studio Code that offers a unique and cozy aesthetic. Inspired by the warm, rustic feel of an old wooden bar serving high-quality red wine, this theme aims to make your coding experience more pleasant and visually appealing. It combines the classic Monokai highlighter with a distinctive brown-maroon color palette, creating a comfortable working environment with clear distinctions between your working area and functional elements of the workbench.
 
 ## Features
@@ -55,7 +60,3 @@ For more detailed explanation on VS Code theme color, including how to make your
 Wine Bar Monokai is licensed under the [GNU General Public License v3.0 (GPL-3.0)](COPYING). You are free to use, modify, and distribute this theme under the terms of this open-source license.
 
 Enjoy coding with the cozy and rustic feel of Wine Bar Monokai! If you have any issues or suggestions, please feel free to report them on the [GitHub repository](https://github.com/d-mahard/wine-bar-monokai). Your feedback is greatly appreciated.
-
-## Acknowledgement
-
-Code samples and this `README.txt` text generation is partially assisted by  [OpenAI's ChatGPT](https://chat.openai.com/).
